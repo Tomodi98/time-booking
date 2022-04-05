@@ -1,0 +1,7 @@
+C:\my-data\productive\C#\TimeBooking\TimeBooking\bin\Debug\TimeBooking.exe.config
+C:\my-data\productive\C#\TimeBooking\TimeBooking\bin\Debug\TimeBooking.exe
+C:\my-data\productive\C#\TimeBooking\TimeBooking\bin\Debug\TimeBooking.pdb
+C:\my-data\productive\C#\TimeBooking\TimeBooking\obj\Debug\TimeBooking.csproj.AssemblyReference.cache
+C:\my-data\productive\C#\TimeBooking\TimeBooking\obj\Debug\TimeBooking.csproj.CoreCompileInputs.cache
+C:\my-data\productive\C#\TimeBooking\TimeBooking\obj\Debug\TimeBooking.exe
+C:\my-data\productive\C#\TimeBooking\TimeBooking\obj\Debug\TimeBooking.pdb

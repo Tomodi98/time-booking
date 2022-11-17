@@ -1,2 +1,2 @@
 # time-booking
- Time calculator helper
+ Time tracker helper for work
